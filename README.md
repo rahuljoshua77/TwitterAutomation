@@ -2,6 +2,10 @@
 
 The tool that Twitter Automation with Selenium (Auto Retweet, Love, Follow)
 
+# Feature
+![image](https://user-images.githubusercontent.com/73378179/117927168-05a7a700-b324-11eb-801e-89eef3fd4067.png)
+
+
 Usage:
 
     1. Download ChromeDriver
