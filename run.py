@@ -18,7 +18,7 @@ from selenium.webdriver.chrome.options import Options
 cwd = os.getcwd()
 
 opts = Options()
-opts.headless = False
+opts.headless = True
 opts.add_argument('log-level=3') 
 opts.add_argument("--start-maximized")
 dc = DesiredCapabilities.CHROME
