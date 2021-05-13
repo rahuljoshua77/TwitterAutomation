@@ -5,6 +5,8 @@ The tool that Twitter Automation with Selenium (Auto Retweet, Love, Follow)
 # Feature
 ![image](https://user-images.githubusercontent.com/73378179/117927168-05a7a700-b324-11eb-801e-89eef3fd4067.png)
 
+# Can Detect Verify
+![image](https://user-images.githubusercontent.com/73378179/118174013-8071de80-b458-11eb-9f23-fb7dbf514dfc.png)
 
 Usage:
 
